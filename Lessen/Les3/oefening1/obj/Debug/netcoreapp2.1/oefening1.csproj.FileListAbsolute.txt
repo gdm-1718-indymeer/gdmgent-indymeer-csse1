@@ -1,0 +1,11 @@
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\bin\Debug\netcoreapp2.1\oefening1.deps.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\bin\Debug\netcoreapp2.1\oefening1.runtimeconfig.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\bin\Debug\netcoreapp2.1\oefening1.runtimeconfig.dev.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\bin\Debug\netcoreapp2.1\oefening1.dll
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\bin\Debug\netcoreapp2.1\oefening1.pdb
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\obj\Debug\netcoreapp2.1\oefening1.csprojAssemblyReference.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\obj\Debug\netcoreapp2.1\oefening1.csproj.CoreCompileInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\obj\Debug\netcoreapp2.1\oefening1.AssemblyInfoInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\obj\Debug\netcoreapp2.1\oefening1.AssemblyInfo.cs
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\obj\Debug\netcoreapp2.1\oefening1.dll
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Lessen\Les3\oefening1\obj\Debug\netcoreapp2.1\oefening1.pdb

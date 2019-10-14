@@ -1,0 +1,11 @@
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.deps.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.runtimeconfig.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.runtimeconfig.dev.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.dll
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.pdb
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.csprojAssemblyReference.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.csproj.CoreCompileInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.AssemblyInfoInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.AssemblyInfo.cs
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.dll
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.pdb
