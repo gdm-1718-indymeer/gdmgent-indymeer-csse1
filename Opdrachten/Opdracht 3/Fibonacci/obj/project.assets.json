@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\awany\\Documents\\ARTEVELDE\\jaar 3\\csse1\\gdmgent-1819-CSSE1-master\\opdrachten\\opdracht2\\opdracht3.csproj",
-      "projectName": "opdracht3",
-      "projectPath": "C:\\Users\\awany\\Documents\\ARTEVELDE\\jaar 3\\csse1\\gdmgent-1819-CSSE1-master\\opdrachten\\opdracht2\\opdracht3.csproj",
+      "projectUniqueName": "C:\\Users\\awany\\Documents\\ARTEVELDE\\jaar 3\\csse1\\gdmgent-indymeer-csse1\\Opdrachten\\Opdracht 3\\Fibonacci\\Fibonacci.csproj",
+      "projectName": "Fibonacci",
+      "projectPath": "C:\\Users\\awany\\Documents\\ARTEVELDE\\jaar 3\\csse1\\gdmgent-indymeer-csse1\\Opdrachten\\Opdracht 3\\Fibonacci\\Fibonacci.csproj",
       "packagesPath": "C:\\Users\\awany\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awany\\Documents\\ARTEVELDE\\jaar 3\\csse1\\gdmgent-1819-CSSE1-master\\opdrachten\\opdracht2\\obj\\",
+      "outputPath": "C:\\Users\\awany\\Documents\\ARTEVELDE\\jaar 3\\csse1\\gdmgent-indymeer-csse1\\Opdrachten\\Opdracht 3\\Fibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

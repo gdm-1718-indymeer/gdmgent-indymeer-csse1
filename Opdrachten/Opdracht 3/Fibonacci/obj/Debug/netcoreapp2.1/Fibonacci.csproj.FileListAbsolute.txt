@@ -1,0 +1,11 @@
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.AssemblyInfo.cs
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.deps.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.runtimeconfig.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.dll
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.pdb
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.dll
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 3\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.pdb
