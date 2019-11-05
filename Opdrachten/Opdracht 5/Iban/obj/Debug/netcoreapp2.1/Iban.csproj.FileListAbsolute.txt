@@ -1,0 +1,11 @@
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\obj\Debug\netcoreapp2.1\Iban.csprojAssemblyReference.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\obj\Debug\netcoreapp2.1\Iban.csproj.CoreCompileInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\obj\Debug\netcoreapp2.1\Iban.AssemblyInfoInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\obj\Debug\netcoreapp2.1\Iban.AssemblyInfo.cs
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\bin\Debug\netcoreapp2.1\Iban.deps.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\bin\Debug\netcoreapp2.1\Iban.runtimeconfig.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\bin\Debug\netcoreapp2.1\Iban.runtimeconfig.dev.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\bin\Debug\netcoreapp2.1\Iban.dll
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\bin\Debug\netcoreapp2.1\Iban.pdb
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\obj\Debug\netcoreapp2.1\Iban.dll
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\Iban\obj\Debug\netcoreapp2.1\Iban.pdb

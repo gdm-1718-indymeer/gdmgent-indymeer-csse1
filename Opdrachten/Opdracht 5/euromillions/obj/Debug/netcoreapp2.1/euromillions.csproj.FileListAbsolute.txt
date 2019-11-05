@@ -1,0 +1,11 @@
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\bin\Debug\netcoreapp2.1\euromillions.deps.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\bin\Debug\netcoreapp2.1\euromillions.runtimeconfig.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\bin\Debug\netcoreapp2.1\euromillions.runtimeconfig.dev.json
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\bin\Debug\netcoreapp2.1\euromillions.dll
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\bin\Debug\netcoreapp2.1\euromillions.pdb
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\obj\Debug\netcoreapp2.1\euromillions.csprojAssemblyReference.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\obj\Debug\netcoreapp2.1\euromillions.csproj.CoreCompileInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\obj\Debug\netcoreapp2.1\euromillions.AssemblyInfoInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\obj\Debug\netcoreapp2.1\euromillions.AssemblyInfo.cs
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\obj\Debug\netcoreapp2.1\euromillions.dll
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 5\euromillions\obj\Debug\netcoreapp2.1\euromillions.pdb
