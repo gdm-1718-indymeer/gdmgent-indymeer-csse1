@@ -1,0 +1,4 @@
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 6\obj\Debug\netcoreapp2.1\oefening1.csprojAssemblyReference.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 6\obj\Debug\netcoreapp2.1\oefening1.csproj.CoreCompileInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 6\obj\Debug\netcoreapp2.1\oefening1.AssemblyInfoInputs.cache
+C:\Users\awany\Documents\ARTEVELDE\jaar 3\csse1\gdmgent-indymeer-csse1\Opdrachten\Opdracht 6\obj\Debug\netcoreapp2.1\oefening1.AssemblyInfo.cs
