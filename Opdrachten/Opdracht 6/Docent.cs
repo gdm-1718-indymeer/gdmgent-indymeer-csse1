@@ -10,28 +10,36 @@ namespace oefening1
 
         // Constructors
         public Docent (string voornaam, string familienaam, char geslacht) : base(voornaam, familienaam, geslacht){
-            this.LogOutput();
             // Genereer Wachtwoord
             base.wachtwoord = GenereerWachtwoord();
-            base.gebruikersnaam = GenereerGebruikersnaam();
-            base.login = GenereerLogin();
+            base.gebruikersnaam = GenereerGebruikersnaam(voornaam, familienaam);
+            base.login = GenereerLogin(this.gebruikersnaam);
             this.LogOutput();
         }
         
         // Methoden
         private string GenereerWachtwoord()
         {
-            return "DocentGW";
+          string psw = "hackingpasswdDocent";
+        return GetHashString(psw);
+
         }
 
-        private string GenereerGebruikersnaam()
+        private string GenereerGebruikersnaam(string voornaam, string familienaam)
         {
-            return "DocentGN";
+            string gebruikersnaam = "";
+            string gVoornaam = GetString(voornaam, 4);
+            string gFamilienaam = GetString(familienaam, 2);
+            gebruikersnaam = gVoornaam.ToLower() + gFamilienaam.ToLower();
+
+            return gebruikersnaam;
         }
 
-        private string GenereerLogin()
+        private string GenereerLogin(string gebruikersnaam)
         {
-            return "DocentL";
+            string DocentL = gebruikersnaam + "@arteveldehs.be";
+
+            return DocentL;
         }
 
         public void LogOutput()

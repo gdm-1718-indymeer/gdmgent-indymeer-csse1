@@ -7,7 +7,6 @@ namespace oefening1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Persoon p = new Persoon();
             Persoon1 p1 = new Persoon1();
             p1.voornaam = "Kristof";
             p1.Geslacht = 'M';
@@ -22,19 +21,8 @@ namespace oefening1
             Console.WriteLine("--test2--");
             Student student1 = new Student("Evelien", "Rutsaert", 'V');
             Console.WriteLine("--test3--");
-            Docent docent1 = new Docent("Evelien", "Rutsaert", 'V');
+            Docent docent1 = new Docent("Kristof", "Raes", 'O');
         }
     }
 
-    public class Persoon
-    {
-        // Velden
-
-
-        // Properties
-
-        // Constructors
-
-        // Methoden
-    }
 }
